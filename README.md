@@ -84,7 +84,7 @@ class Uday:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 [**archon-ai**](https://github.com/Udaydsmls/archon-ai) | Production-grade multi-agent system that autonomously researches topics, synthesizes findings, and self-critiques — served via a real-time REST API. | Python, LLMs, FastAPI |
+| 🤖 [**archon-ai**](https://github.com/Udaydsmls/archon-ai) | Production-grade multi-agent system that autonomously researches topics, synthesizes findings, and self-critiques, served via a real-time REST API. | Python, LLMs, FastAPI |
 | 📈 [**FullStack-StockVision**](https://github.com/Udaydsmls/FullStack-StockVision) | End-to-end stock forecasting platform: Python training pipeline, **C++ inference server**, and React UI. Ships with 7 model architectures. | Python, C++, React |
 | 🎬 [**VideoFrameRateEnhancer**](https://github.com/Udaydsmls/VideoFrameRateEnhancer) | Learned frame-interpolation pipeline that doubles any video's frame rate by predicting in-between frames. | PyTorch, CV |
 | 🧪 [**ArchPlexBench**](https://github.com/Udaydsmls/ArchPlexBench) | From-scratch benchmark training 5 sequence-modeling architectures under identical conditions on WikiText-2. Pure PyTorch, no shortcuts. | PyTorch, NLP |
